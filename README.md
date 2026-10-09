@@ -1,6 +1,6 @@
-# Kovaaks-Theme-Red
+# Kovaaks-Theme-BloodMoon
 
-<img width="640" height="360" alt="Red" src="https://github.com/user-attachments/assets/4d64c629-2e2a-450a-9823-d65f7d71e7d9" />
+<img width="640" height="360" alt="BloodMoon" src="https://github.com/user-attachments/assets/4d64c629-2e2a-450a-9823-d65f7d71e7d9" />
 
 Download the .json file in this repository. Now, go on Steam, open up KovaaK's Steam page, and go to the settings icon in the middle right of the screen. You can see the icon in the picture below:
 
